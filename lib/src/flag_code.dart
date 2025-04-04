@@ -260,6 +260,7 @@ class FlagCode {
     ['ZAF', 'ZA']: 'za',
     ['ZMB', 'ZM']: 'zm',
     ['ZWE', 'ZW']: 'zw',
+    ['EUR', 'EU']: 'eu',
   };
 
   static const Map<String, String> _flagCodesLanguages = {
@@ -334,7 +335,7 @@ class FlagCode {
     'es-ve': 've',
     'et': 'et',
     'et-ee': 'ee',
-    'eu': 'es',
+    'eu': 'eu',
     'fa': 'ir',
     'fi': 'fi',
     'fo': 'fo',
